@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I'm Gaurav Kumar<br><br>🚀 **DevOps & Cloud Enthusiast **<br>☁️ Passionate about building **scalable, automated & production-ready systems**<br>💡 Turning ideas into **live cloud applications with CI/CD & DevOps practices**<br><br> 🔭 What I'm Currently Working On<br><br>🚀 Building CI/CD pipelines, deploying scalable AWS applications, and optimizing containerized DevOps workflows with Docker, Nginx, and automation.<br><br> 🌱 What I'm Currently Learning<br><br>📘 Learning advanced AWS architecture, Kubernetes orchestration, Terraform (IaC), and cloud security with system design principles.<br><br> 👯 Looking to Collaborate On<br><br>🤝 Open to collaborating on DevOps, cloud, CI/CD, and scalable full-stack projects with real-world impact.<br><br>🤝 Looking for Help With<br><br>🤝 Seeking guidance in advanced Kubernetes, scalable cloud architecture, Terraform automation, and monitoring/observability tools.<br><br>💬 Ask me about AWS, Docker, CI/CD pipelines, Linux, Nginx, and building scalable cloud-based architectures.<br><br> 📈 I stand out by focusing on real-world deployments, automating workflows, and continuously building with modern DevOps tools.<br><br> ⚡ Fun Fact<br><br>😄 I enjoy deploying applications more than building them —<br>because seeing code go live is the real thrill 🚀<br><br>💡 Bonus: I can debug deployment issues for hours and still enjoy it 😄<br>
+👋 Hey there, I'm Gaurav Kumar<br><br>🚀 **DevOps & Cloud Enthusiast **<br>☁️ Passionate about building scalable, automated & production-ready systems<br>💡 Turning ideas into live cloud applications with CI/CD & DevOps practices<br><br>🚀 Building CI/CD pipelines, deploying scalable AWS applications, and optimizing containerized DevOps workflows with Docker, Nginx, and automation.<br><br>📘 Learning advanced AWS architecture, Kubernetes orchestration, Terraform (IaC), and cloud security with system design principles.<br><br>🤝 Open to collaborating on DevOps, cloud, CI/CD, and scalable full-stack projects with real-world impact.<br><br>🤝 Seeking guidance in advanced Kubernetes, scalable cloud architecture, Terraform automation, and monitoring/observability tools.<br><br>💬 Ask me about AWS, Docker, CI/CD pipelines, Linux, Nginx, and building scalable cloud-based architectures.<br><br> 📈 I stand out by focusing on real-world deployments, automating workflows, and continuously building with modern DevOps tools.<br><br> ⚡ Fun Fact<br><br>😄 I enjoy deploying applications more than building them —<br>because seeing code go live is the real thrill 🚀<br><br>💡 Bonus: I can debug deployment issues for hours and still enjoy it 😄<br>
 
 
 ## 🌐 Socials:
@@ -12,11 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=gauravkumare3e&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumare3e&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
- 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gauravkumare3e&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gauravkumare3e&icon=0&color=3)](https://visitcount.itsvg.in)
